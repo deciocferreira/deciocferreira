@@ -1,4 +1,4 @@
-### Seja bem vindo visitante 👋
+### Seja bem vindo 👋
 
 ## Decio Ferreira 🧑‍💻
 Prazer em conhecê-lo!! Em meu 8 anos de experiência em TI, atuei como analista de Infraestrutura onde analisava e buscava soluções, visando atender o SLA, sustentação e melhoria dos ambientes. Posteriormente descobri que dei match com DevOps, especialmente na parte de gerenciamento, desenvolvimento e deploy de Software, o CI/CD.
@@ -16,7 +16,8 @@ Venho me dedicando ao estudo da cultura e ferramentas, tendo como **objetivo con
 **Profissional e estudante de tecnologia DevOps/SRE nível Pleno em desenvolvimento constante.**
 
 Temas de Interesse e ferramentas:
-Azure- AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
+
+Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
 
 ## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
 
