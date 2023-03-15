@@ -13,10 +13,6 @@ Venho me dedicando ao estudo da cultura e ferramentas, tendo como **objetivo con
 
 ## Interesses e Atividades 📝
 
-**Profissional e estudante de tecnologia DevOps/SRE nível Pleno em desenvolvimento constante.**
-
-Temas de Interesse e ferramentas:
-
 Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
 
 ## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
