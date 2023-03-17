@@ -1,3 +1,22 @@
+###Welcome 👋
+
+## Decio Ferreira 🧑‍💻
+
+Pleasure to meet you!! In my 8 years of experience in IT, I worked as an Infrastructure analyst where I analyzed and sought solutions, aiming to meet the SLA, support and improve environments. Later I discovered that I matched with DevOps, especially in the management, development and deployment of Software, the CI/CD.
+
+I've worked on projects with Azure DevOps, Windows Server, Powershell, AD, DNS, SQL Server, computer networks and I'm currently looking for a new challenge to be able to understand the entire DevOps cycle and grow professionally.
+
+I have been dedicating myself to the study of culture and tools, with the aim of building resilient environments that can deliver value, always driven by challenges and with a huge passion for learning.
+
+***Microsoft Certified Azure Fundamentals AZ-900*** ✅
+
+***AWS Certified Cloud Practitioner soon*** 📖📚🤓
+
+## Interest and Activities 📝
+
+Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
+
+
 ### Seja bem vindo 👋
 
 ## Decio Ferreira 🧑‍💻
