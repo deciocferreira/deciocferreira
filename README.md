@@ -1,4 +1,5 @@
-###Welcome 👋
+### English 
+Welcome 👋
 
 ## Decio Ferreira 🧑‍💻
 
@@ -17,7 +18,8 @@ I have been dedicating myself to the study of culture and tools, with the aim of
 Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
 
 
-### Seja bem vindo 👋
+### Português
+Seja bem vindo 👋
 
 ## Decio Ferreira 🧑‍💻
 Prazer em conhecê-lo!! Em meu 8 anos de experiência em TI, atuei como analista de Infraestrutura onde analisava e buscava soluções, visando atender o SLA, sustentação e melhoria dos ambientes. Posteriormente descobri que dei match com DevOps, especialmente na parte de gerenciamento, desenvolvimento e deploy de Software, o CI/CD.
