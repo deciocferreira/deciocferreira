@@ -3,7 +3,7 @@ Welcome 👋
 
 ## Decio Ferreira 🧑‍💻
 
-Pleasure to meet you!! Since 2015 I have been an Infrastructure analyst where I seek solutions and problem resolutions in order to meet the SLA, support and improve environments. I started working with DevOps tools, especially in software management, development and deployment. Projects with Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server and computer networks.
+Since 2015 I have been an Infrastructure analyst where I seek solutions and problem resolutions in order to meet the SLA, support and improve environments. I started working with DevOps tools, especially in software management, development and deployment. Projects with Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server and computer networks.
 
 I'm currently looking for a new challenge to be able to understand the entire DevOps cycle and grow professionally. I've been dedicating myself to the study of culture and tools, focused and with the objective of building resilient environments that deliver value, complying with the rules and solving the pains of the business.
 
@@ -20,7 +20,7 @@ Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server
 Seja bem vindo 👋
 
 ## Decio Ferreira 🧑‍💻
-Prazer em conhecê-lo!! Desde 2015 sou analista de Infraestrutura onde busco soluções e resoluções de problemas visando atender o SLA, sustentação e melhoria dos ambientes. Passei a trabalhar com ferramentas DevOps, especialmente na parte de gerenciamento, desenvolvimento e deploy de Software. Projetos com Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server e redes de computadores.
+Desde 2015 sou analista de Infraestrutura onde busco soluções e resoluções de problemas visando atender o SLA, sustentação e melhoria dos ambientes. Passei a trabalhar com ferramentas DevOps, especialmente na parte de gerenciamento, desenvolvimento e deploy de Software. Projetos com Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server e redes de computadores.
 
 Atualmente estou em busca de um novo desafio para poder compreender todo o ciclo DevOps e crescer profisisonalmente. Venho me dedicando ao estudo da cultura e ferramentas, focado e com objetivo de construir ambientes resilientes que entreguem valor, atendendo as regras e resolvendo as dores do negócio.
 
