@@ -24,8 +24,6 @@ Desde 2015 sou analista de Infraestrutura onde busco soluções e resoluções d
 
 Atualmente estou em busca de um novo desafio para poder compreender todo o ciclo DevOps e crescer profisisonalmente. Venho me dedicando ao estudo da cultura e ferramentas, focado e com objetivo de construir ambientes resilientes que entreguem valor, atendendo as regras e resolvendo as dores do negócio.
 
-Venho me dedicando ao estudo da cultura e ferramentas, tendo como **objetivo construir ambientes resilientes e que possam entregar valor** 
-
 ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
 ***AWS Certified Cloud Practitioner em breve*** 📖📚🤓
@@ -34,7 +32,7 @@ Venho me dedicando ao estudo da cultura e ferramentas, tendo como **objetivo con
 
 Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
 
-## Conhecimento nas seguintes Tecnologias e Ferramentas 💻
+## Experiência e conhecimento prático nas seguintes Tecnologias e Ferramentas 💻
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
