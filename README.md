@@ -3,11 +3,9 @@ Welcome 👋
 
 ## Decio Ferreira 🧑‍💻
 
-Pleasure to meet you!! In my 8 years of experience in IT, I worked as an Infrastructure analyst where I analyzed and sought solutions, aiming to meet the SLA, support and improve environments. Later I discovered that I matched with DevOps, especially in the management, development and deployment of Software, the CI/CD.
+Pleasure to meet you!! Since 2015 I have been an Infrastructure analyst where I seek solutions and problem resolutions in order to meet the SLA, support and improve environments. I started working with DevOps tools, especially in software management, development and deployment. Projects with Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server and computer networks.
 
-I've worked on projects with Azure DevOps, Windows Server, Powershell, AD, DNS, SQL Server, computer networks and I'm currently looking for a new challenge to be able to understand the entire DevOps cycle and grow professionally.
-
-I have been dedicating myself to the study of culture and tools, with the aim of building resilient environments that can deliver value, always driven by challenges and with a huge passion for learning.
+I'm currently looking for a new challenge to be able to understand the entire DevOps cycle and grow professionally. I've been dedicating myself to the study of culture and tools, focused and with the objective of building resilient environments that deliver value, complying with the rules and solving the pains of the business.
 
 ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
@@ -22,11 +20,11 @@ Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server
 Seja bem vindo 👋
 
 ## Decio Ferreira 🧑‍💻
-Prazer em conhecê-lo!! Em meu 8 anos de experiência em TI, atuei como analista de Infraestrutura onde analisava e buscava soluções, visando atender o SLA, sustentação e melhoria dos ambientes. Posteriormente descobri que dei match com DevOps, especialmente na parte de gerenciamento, desenvolvimento e deploy de Software, o CI/CD.
+Prazer em conhecê-lo!! Desde 2015 sou analista de Infraestrutura onde busco soluções e resoluções de problemas visando atender o SLA, sustentação e melhoria dos ambientes. Passei a trabalhar com ferramentas DevOps, especialmente na parte de gerenciamento, desenvolvimento e deploy de Software. Projetos com Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server e redes de computadores.
 
-Trabalhei em projetos com Azure DevOps, Windows Server, Powershell, AD, DNS, SQL Server, redes de computadores e atualmente estou em busca de um novo desafio para poder compreender todo o ciclo DevOps e crescer profisisonalmente. 
+Atualmente estou em busca de um novo desafio para poder compreender todo o ciclo DevOps e crescer profisisonalmente. Venho me dedicando ao estudo da cultura e ferramentas, focado e com objetivo de construir ambientes resilientes que entreguem valor, atendendo as regras e resolvendo as dores do negócio.
 
-Venho me dedicando ao estudo da cultura e ferramentas, tendo como **objetivo construir ambientes resilientes e que possam entregar valor** sempre movido por *desafios* e com uma paixão enorme por *aprender*.
+Venho me dedicando ao estudo da cultura e ferramentas, tendo como **objetivo construir ambientes resilientes e que possam entregar valor** 
 
 ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
