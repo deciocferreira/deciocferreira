@@ -7,13 +7,13 @@ The experience gained since 2015 as an Infrastructure analyst has helped me to d
 
 I am currently looking for a new challenge to work in the platform infrastructure area, using Cloud, DevOps and similar technologies. I've been dedicating myself to the continuous study of tools and architectures, with the aim of building resilient environments that deliver value and solve business pains.
 
-***Microsoft Certified Azure Fundamentals AZ-900*** ✅
+<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/69fbf0c4-e7f2-4f58-b623-33ece8894175" width="80" height="80"> ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
-***AWS Certified Cloud Practitioner soon*** 📖📚🤓
+<image src="https://user-images.githubusercontent.com/12403699/234680151-c511986b-b344-45e7-b0c2-cdce9d4f2e1b.png" width="80" height="80"> ***AWS Certified Cloud Practitioner soon*** 📖📚🤓
 
 ## Interest and Activities 📝
 
-Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
+Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus 
 
 
 ### Português
@@ -24,20 +24,20 @@ A experiência adquirida desde 2015 como analista de Infraestrutura me ajudou a 
 
 Atualmente estou em busca de um novo desafio para atuar na area de infraestrutura de plataformas, utilizando tecnologias Cloud, DevOps e similares. Venho me dedicando ao estudo continuo de ferramentas e arquiteturas, com o objetivo de construir ambientes resilientes que entreguem valor e  e resolvam as dores do negócio.
 
-***Microsoft Certified Azure Fundamentals AZ-900*** ✅
+<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/69fbf0c4-e7f2-4f58-b623-33ece8894175" width="80" height="80">  ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
-***AWS Certified Cloud Practitioner em breve*** 📖📚🤓
+<image src="https://user-images.githubusercontent.com/12403699/234680151-c511986b-b344-45e7-b0c2-cdce9d4f2e1b.png" width="80" height="80"> ***AWS Certified Cloud Practitioner em breve*** 📖📚🤓
 
 ## Interesses e Atividades 📝
 
-Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus - Grafana
+Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus 
 
-## Experiência e conhecimento prático nas seguintes Tecnologias e Ferramentas 💻
+## Experiência e conhecimento prático nas seguintes tecnologias 💻
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) 
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)     
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)    
 ![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
