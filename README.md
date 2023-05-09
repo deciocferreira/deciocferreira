@@ -7,14 +7,27 @@ The experience gained since 2015 as an Infrastructure analyst has helped me to d
 
 I am currently looking for a new challenge to work in the platform infrastructure area, using Cloud, DevOps and similar technologies. I've been dedicating myself to the continuous study of tools and architectures, with the aim of building resilient environments that deliver value and solve business pains.
 
+## Certifications
+
 <image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/69fbf0c4-e7f2-4f58-b623-33ece8894175" width="80" height="80"> ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
 <image src="https://user-images.githubusercontent.com/12403699/234680151-c511986b-b344-45e7-b0c2-cdce9d4f2e1b.png" width="80" height="80"> ***AWS Certified Cloud Practitioner soon*** 📖📚🤓
+ 
+<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/e5baa0f2-ceae-4a14-9cae-714a1a72ee88" width="90" height="90"> ***Linux Command-Line Captain by Redhat*** 
 
 ## Interest and Activities 📝
-
-Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus 
-
+ 
+- Support in Cloud Azure and AWS infrastructure
+- Management of Docker images and containers
+- Practical knowledge in deploying applications on Kubernetes
+- Knowledge in application monitoring metrics 
+- lac to create automated infrastructure(Powershell, Terraform, yaml scripts)
+- CI/CD Pipelines for delivering artifacts to Azure DevOps
+- Kanban for teamwork management (tickets, stories, items, bugs)
+- Familiarity with Visual Studio for editing .NET and C# code
+- Windows Server (service management)
+- Linux (Creating directories, managing distro packages, editing files)
+- DevOps Mindset 
 
 ### Português
 Seja bem vindo 👋
@@ -24,13 +37,27 @@ A experiência adquirida desde 2015 como analista de Infraestrutura me ajudou a 
 
 Atualmente estou em busca de um novo desafio para atuar na area de infraestrutura de plataformas, utilizando tecnologias Cloud, DevOps e similares. Venho me dedicando ao estudo continuo de ferramentas e arquiteturas, com o objetivo de construir ambientes resilientes que entreguem valor e  e resolvam as dores do negócio.
 
+## Certificações
+
 <image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/69fbf0c4-e7f2-4f58-b623-33ece8894175" width="80" height="80">  ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
 <image src="https://user-images.githubusercontent.com/12403699/234680151-c511986b-b344-45e7-b0c2-cdce9d4f2e1b.png" width="80" height="80"> ***AWS Certified Cloud Practitioner em breve*** 📖📚🤓
-
+ 
+<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/e5baa0f2-ceae-4a14-9cae-714a1a72ee88" width="90" height="90"> ***Linux Command-Line Captain by Redhat*** 
+ 
 ## Interesses e Atividades 📝
-
-Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server - Powershell - Prometheus 
+ 
+- Suporte em infraestrutura Cloud Azure e AWS
+- Gerenciamento de imagens e containers Docker 
+- Conhecimento prático em deploy de aplicações no Kubernetes
+- Conhecimento em métricas de monitoração de aplicações
+- lac para criar infra automatizada (Powershell, Terraform, scripts yaml)
+- CI/CD Pipelines para entrega artefatos no Azure DevOps
+- Kanban para administração de trabalho em equipe (tickets, storys, itens, bugs)
+- Familiaridade com Visual Studio para edição de códigos .NET e C#
+- Windows Server (gerenciamento de serviços) 
+- Linux (Criação de diretorios, gerenciamento de pacotes da distro, edição de arquivos)
+- DevOps Mindset
 
 ## Experiência e conhecimento prático nas seguintes tecnologias 💻
 
