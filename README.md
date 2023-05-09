@@ -3,9 +3,9 @@ Welcome 👋
 
 ## Decio Ferreira 🧑‍💻
 
-Since 2015 I have been an Infrastructure analyst where I seek solutions and problem resolutions in order to meet the SLA, support and improve environments. I started working with DevOps tools, especially in software management, development and deployment. Projects with Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server and computer networks.
+The experience gained since 2015 as an Infrastructure analyst has helped me to develop skills that allow me to work very well in a team, always focused on finding solutions and solving problems in order to meet the SLA, support and improve environments. This made me a person who is always on the move, looking for new challenges in constant evolution, avoiding the comfort zone.
 
-I'm currently looking for a new challenge to be able to understand the entire DevOps cycle and grow professionally. I've been dedicating myself to the study of culture and tools, focused and with the objective of building resilient environments that deliver value, complying with the rules and solving the pains of the business.
+I am currently looking for a new challenge to work in the platform infrastructure area, using Cloud, DevOps and similar technologies. I've been dedicating myself to the continuous study of tools and architectures, with the aim of building resilient environments that deliver value and solve business pains.
 
 ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
@@ -20,9 +20,9 @@ Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server
 Seja bem vindo 👋
 
 ## Decio Ferreira 🧑‍💻
-Desde 2015 sou analista de Infraestrutura onde busco soluções e resoluções de problemas visando atender o SLA, sustentação e melhoria dos ambientes. Passei a trabalhar com ferramentas DevOps, especialmente na parte de gerenciamento, desenvolvimento e deploy de Software. Projetos com Cloud Azure (Azure DevOps, .Net, C#), Windows Server, Powershell, AD, DNS, SQL Server e redes de computadores.
+A experiência adquirida desde 2015 como analista de Infraestrutura me ajudou a desenvolver habilidades das quais me permitem trabalhar muito bem em equipe, sempre focado em buscar soluções e resoluções de problemas visando atender o SLA, sustentação e melhoria dos ambientes. Isso me tornou uma pessoa que está sempre em movimento, a procura de novos desafios em constante evolução, evitando a zona de conforto.
 
-Atualmente estou em busca de um novo desafio para poder compreender todo o ciclo DevOps e crescer profisisonalmente. Venho me dedicando ao estudo da cultura e ferramentas, focado e com objetivo de construir ambientes resilientes que entreguem valor, atendendo as regras e resolvendo as dores do negócio.
+Atualmente estou em busca de um novo desafio para atuar na area de infraestrutura de plataformas, utilizando tecnologias Cloud, DevOps e similares. Venho me dedicando ao estudo continuo de ferramentas e arquiteturas, com o objetivo de construir ambientes resilientes que entreguem valor e  e resolvam as dores do negócio.
 
 ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
@@ -48,8 +48,6 @@ Azure - AWS - Docker - Kubernetes - Terraform - Ansible - Linux - Windows Server
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
