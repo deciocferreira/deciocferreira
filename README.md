@@ -1,19 +1,18 @@
-### Seja bem vindo 👋
+<h1 align= "center"> 👋 Decio Ferreira 💻☁️ </h1>
 
-## Decio Ferreira 🧑‍💻
 A experiência adquirida desde 2015 como analista de Infraestrutura me ajudou a desenvolver habilidades das quais me permitem trabalhar muito bem em equipe, sempre focado em buscar soluções e resoluções de problemas visando atender o SLA, sustentação e melhoria dos ambientes. Isso me tornou uma pessoa que está sempre em movimento, a procura de novos desafios em constante evolução, evitando a zona de conforto.
 
 Atualmente estou em busca de um novo desafio para atuar na area de infraestrutura de plataformas, utilizando tecnologias Cloud, DevOps e similares. Venho me dedicando ao estudo continuo de ferramentas e arquiteturas, com o objetivo de construir ambientes resilientes que entreguem valor e  e resolvam as dores do negócio.
 
 ## Certificações
 
-<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/69fbf0c4-e7f2-4f58-b623-33ece8894175" width="80" height="80">  ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
+<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/69fbf0c4-e7f2-4f58-b623-33ece8894175" width="80" height="80"> ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
 <image src="https://user-images.githubusercontent.com/12403699/234680151-c511986b-b344-45e7-b0c2-cdce9d4f2e1b.png" width="80" height="80"> ***AWS Certified Cloud Practitioner em breve*** 📖📚🤓
 
 <image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/b63bc6b4-4416-42be-bd89-1743dc0ea089" width="80" height="80"> ***Scrum Fundamentals Certified*** ✅
 
-<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/e5baa0f2-ceae-4a14-9cae-714a1a72ee88" width="90" height="90"> ***Linux Command-Line Captain by Redhat*** 
+<image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/e5baa0f2-ceae-4a14-9cae-714a1a72ee88" width="90" height="90"> ***Linux Command-Line Captain by Redhat*** ✅
  
 ## Principais Atividades 📝
  
