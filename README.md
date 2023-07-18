@@ -2,7 +2,7 @@
 
 A experiência adquirida desde 2015 como analista de Infraestrutura me ajudou a desenvolver habilidades das quais me permitem trabalhar muito bem em equipe, sempre focado em buscar soluções e resoluções de problemas visando atender o SLA, sustentação e melhoria dos ambientes. Isso me tornou uma pessoa que está sempre em movimento, a procura de novos desafios em constante evolução, evitando a zona de conforto.
 
-Atualmente estou em busca de um novo desafio para atuar na area de infraestrutura de plataformas, utilizando tecnologias Cloud, DevOps e similares. Venho me dedicando ao estudo continuo de ferramentas e arquiteturas, com o objetivo de construir ambientes resilientes que entreguem valor e  e resolvam as dores do negócio.
+Atualmente estou em busca de uma vaga Jr. /Estágio na area de  Cloud, DevOps e similares. Venho me dedicando ao estudo continuo de ferramentas e arquiteturas, com o objetivo de construir ambientes resilientes que entreguem valor e  e resolvam as dores do negócio.
 
 ## Certificações
 
@@ -18,10 +18,10 @@ Atualmente estou em busca de um novo desafio para atuar na area de infraestrutur
  
 - Suporte em infraestrutura Cloud Azure e AWS
 - Gerenciamento de imagens e containers Docker 
-- Conhecimento prático em deploy de aplicações no Kubernetes
+- Conhecimento em Kubernetes
 - Conhecimento em métricas de monitoração de aplicações
 - lac para criação de infra automatizada (Powershell, Terraform, scripts yaml)
-- CI/CD Pipelines para entrega artefatos no Azure DevOps
+- Conhecimento em CI/CD Pipelines para entrega artefatos no Azure DevOps
 - Scrum para gerência de projetos (trabalho em equipe, sprints, storys, epics)
 - Kanban para administração de trabalho em equipe (tickets, itens, bugs)
 - Familiaridade com Visual Studio para edição de códigos .NET e C#
