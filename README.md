@@ -29,7 +29,7 @@ Atualmente estou em busca de uma vaga Jr. /Estágio na area de  Cloud, DevOps e 
 - Linux (Criação de diretorios, gerenciamento de pacotes da distro, edição de arquivos)
 - DevOps Mindset
 
-## Experiência e conhecimento prático nas seguintes tecnologias 💻
+## Experiência e conhecimento nas seguintes tecnologias 💻
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
