@@ -8,7 +8,7 @@ Atualmente estou em busca de uma vaga Jr. /Estágio na area de  Cloud, DevOps e 
 
 <image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/69fbf0c4-e7f2-4f58-b623-33ece8894175" width="80" height="80"> ***Microsoft Certified Azure Fundamentals AZ-900*** ✅
 
-<image src="https://user-images.githubusercontent.com/12403699/234680151-c511986b-b344-45e7-b0c2-cdce9d4f2e1b.png" width="80" height="80"> ***AWS Certified Cloud Practitioner em breve*** 📖📚🤓
+<image src="https://user-images.githubusercontent.com/12403699/234680151-c511986b-b344-45e7-b0c2-cdce9d4f2e1b.png" width="80" height="80"> ***AWS Certified Cloud Practitioner*** ✅
 
 <image src="https://github.com/deciocferreira/deciocferreira/assets/12403699/b63bc6b4-4416-42be-bd89-1743dc0ea089" width="80" height="80"> ***Scrum Fundamentals Certified*** ✅
 
@@ -17,15 +17,15 @@ Atualmente estou em busca de uma vaga Jr. /Estágio na area de  Cloud, DevOps e 
 ## Principais Atividades 📝
  
 - Suporte em infraestrutura Cloud Azure e AWS
-- Gerenciamento de imagens e containers Docker 
+- Conhecimento de imagens e containers Docker 
 - Conhecimento em Kubernetes
-- Conhecimento em métricas de monitoração de aplicações
 - lac para criação de infra automatizada (Powershell, Terraform, scripts yaml)
 - Conhecimento em CI/CD Pipelines para entrega artefatos no Azure DevOps
 - Scrum para gerência de projetos (trabalho em equipe, sprints, storys, epics)
 - Kanban para administração de trabalho em equipe (tickets, itens, bugs)
+- ITSM para gerenciamento de mudanças e ativos de rede
 - Familiaridade com Visual Studio para edição de códigos .NET e C#
-- Windows Server (gerenciamento de serviços) 
+- Windows Server (gerenciamento de serviços AD, DNS, DHCP, IIS) 
 - Linux (Criação de diretorios, gerenciamento de pacotes da distro, edição de arquivos)
 - DevOps Mindset
 
@@ -39,7 +39,6 @@ Atualmente estou em busca de uma vaga Jr. /Estágio na area de  Cloud, DevOps e 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
